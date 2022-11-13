@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MommysEye",
+        "repositoryURL": "https://github.com/4440449/MommysEye",
+        "state": {
+          "branch": "master",
+          "revision": "fe9a4c92482e7336bf851662a97f6b789b5081dd",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
